@@ -24,6 +24,14 @@
 
 ---
 
+## ❤️ मेरे काम को सपोर्ट करें (Support My Work)
+
+अगर आपको यह प्रोजेक्ट पसंद आया, तो कृपया मुझे GitHub Sponsors पर सपोर्ट करें। यह मुझे और ऐसे ओपन सोर्स (Open Source) प्रोजेक्ट बनाने में मदद करेगा!
+
+[![Sponsor Me](https://img.shields.io/badge/--Sponsor%20Me-4e9a06?style=flat&logo=github)](आपकी\_GitHub\_Sponsors\_URL\_यहाँ)
+
+---
+
 ## 🛠️ How to Use Locally
 
 1.  Clone this repository: `git clone https://github.com/kingjackjones964-spec/HoneyAI-Chat-Assistant.git`
